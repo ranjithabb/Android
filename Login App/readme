@@ -1,0 +1,4 @@
+Login App with timer including validations
+
+-In this app, after 3 wrong attempts for login, the Login button disappears and re-appears after 3 seconds. 
+-Relevent messages are show for successful and unsuccessful logins.  
